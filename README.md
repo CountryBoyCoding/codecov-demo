@@ -3,3 +3,5 @@ This repository is meant to show the features and functionalities of Codecov. Yo
 
 # made an update
 # made another update
+
+[![codecov](https://codecov.io/gh/{{REPOSITORY}}/branch/main/graph/badge.svg)](https://codecov.io/gh/{{REPOSITORY}})
